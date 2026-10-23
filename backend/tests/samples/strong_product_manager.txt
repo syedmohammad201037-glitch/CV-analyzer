@@ -1,0 +1,59 @@
+Alex Morgan
+Senior Product Manager
+alex.morgan@example.com | +1 (555) 012-3456 | Springfield, USA | linkedin.com/in/alexmorgan-example
+
+PROFILE
+Results-driven product manager with 8+ years of experience launching B2B software products from concept to
+scale. Skilled at aligning engineering, design, and sales around a clear roadmap, and at turning customer insight
+into measurable growth.
+
+EXPERIENCE
+Senior Product Manager
+
+2021 – Present
+
+Brightwave Technologies, Springfield
+
+• Led a team of 12 across engineering and design to ship an analytics platform used by 3,000+ customers.
+• Increased user retention by 24% through onboarding redesign and data-driven experimentation.
+• Owned a $4M product budget and quarterly roadmap presented to executive leadership.
+Product Manager
+
+2018 – 2021
+
+NovaSoft Inc., Riverton
+
+• Launched 3 major features that contributed to a 35% increase in annual recurring revenue.
+• Ran 50+ customer interviews to prioritize the backlog and reduce churn by 12%.
+• Introduced agile rituals that cut average release cycle from 6 weeks to 2.
+Business Analyst
+
+2015 – 2018
+
+Corelink Solutions, Riverton
+
+• Built dashboards in SQL and Tableau that improved reporting speed by 40%.
+• Partnered with stakeholders to document requirements for 10+ internal tools.
+
+EDUCATION
+B.S. in Business Information Systems
+
+2011 – 2015
+
+State University, Springfield — GPA 3.8/4.0
+
+SKILLS
+Product: Roadmapping, A/B testing, User research,
+OKRs
+
+Technical: SQL, Tableau, Jira, Figma, Python (basic)
+
+Leadership: Stakeholder management, Mentoring,
+Agile/Scrum
+
+Languages: English (native), Spanish (conversational)
+
+CERTIFICATIONS
+Certified Scrum Product Owner (CSPO), 2020 • Google Data Analytics Certificate, 2019
+
+

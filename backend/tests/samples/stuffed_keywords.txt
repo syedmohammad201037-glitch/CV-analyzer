@@ -1,0 +1,14 @@
+John Doe
+john@example.com
+
+SKILLS
+python, java, javascript, typescript, react, angular, vue, node.js, express, html, css, sql, mysql, postgresql, mongodb, aws, azure, docker, kubernetes, git, linux, machine learning, deep learning, pandas, numpy, tensorflow, pytorch, nlp, tableau, power bi, excel, agile, scrum, leadership, communication, teamwork
+python, java, javascript, typescript, react, angular, vue, node.js, express, html, css, sql, mysql, postgresql, mongodb, aws, azure, docker, kubernetes, git, linux, machine learning, deep learning, pandas, numpy, tensorflow, pytorch, nlp, tableau, power bi, excel, agile, scrum, leadership, communication, teamwork
+python, java, javascript, typescript, react, angular, vue, node.js, express, html, css, sql, mysql, postgresql, mongodb, aws, azure, docker, kubernetes, git, linux, machine learning, deep learning, pandas, numpy, tensorflow, pytorch, nlp, tableau, power bi, excel, agile, scrum, leadership, communication, teamwork
+
+EXPERIENCE
+2020 2021 2022 2023 2024 2025 100% 100% 100% 100% 100%
+python, java, javascript, typescript, react, angular, vue, node.js, express, html, css, sql, mysql, postgresql, mongodb, aws, azure, docker, kubernetes, git, linux, machine learning, deep learning, pandas, numpy, tensorflow, pytorch, nlp, tableau, power bi, excel, agile, scrum, leadership, communication, teamwork
+
+EDUCATION
+BS 2018

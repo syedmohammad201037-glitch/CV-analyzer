@@ -1,0 +1,25 @@
+Sara Khan
+sara.khan@example.com | +92 300 1234567 | github.com/sarakhan-example | Lahore
+
+PROFILE
+Final-year computer science student interested in web development and data analysis.
+
+EDUCATION
+BS Computer Science, Example University, 2022 - 2026
+CGPA 3.4/4.0
+
+PROJECTS
+Campus Marketplace (React, Node.js, MongoDB)
+- Built a student buying and selling web app used by 150+ students during a pilot semester.
+- Designed REST API with authentication and image upload.
+- Wrote unit tests that covered the main checkout flow.
+
+Sales Dashboard (Python, pandas, Tableau)
+- Analyzed a public retail dataset and built an interactive dashboard.
+- Documented the findings in a short report.
+
+SKILLS
+Python, JavaScript, React, Node.js, SQL, Git, HTML, CSS, MongoDB, Tableau
+
+CERTIFICATIONS
+Google Data Analytics Certificate, 2025

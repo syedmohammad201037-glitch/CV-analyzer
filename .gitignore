@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.DS_Store
+
+backend/models/
+__pycache__/
+.venv/
+
+backend/.env
